@@ -21,3 +21,5 @@ The Fuel System usually has these main components:
 As I was learning just the fundamentals, I did not go into the chemistry of the fuel instead I stuck to the simple operations. Fuel chemistry would probably be covered once I do Fuel 002. 
 
 The rest of my learning session would pertain to each of the operations. This folder also should have diagrams, details, and citations.
+
+![image](https://user-images.githubusercontent.com/83897925/117616561-e9bbce00-b188-11eb-866c-00bac7476022.png)
