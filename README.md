@@ -1,4 +1,4 @@
-# automobile-
+# automobile
 This repository should slowly become a bank of information about automobiles. 
 
 The idea of this repository is to build a community that constantly learns/researches together and turns this repository from one that's empty to one that has a ton of in-depth information concerning the topic. 
