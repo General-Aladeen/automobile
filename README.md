@@ -1,4 +1,6 @@
 # automobile
+*General Aladeen*
+
 This repository should slowly become a bank of information about automobiles. 
 
 The idea of this repository is to build a community that constantly learns/researches together and turns this repository from one that's empty to one that has a ton of in-depth information concerning the topic. 
@@ -10,3 +12,7 @@ This Repository focuses on automobiles (mainly cars) and would take a very non-t
 Maybe in the future, we can have a growing community, which constantly learns/researches/uploads information on automobiles.
 
 Take a look at the branches and if you are a beginner (like me) start from the very top (001) and work your way up the ladder. As this repository is new, there will probably be just (001), so in case you are interested, join me in this new community learning experience. Let's learn from each other, upload our notes/research/resources, and work towards a singular goal of gaining knowledge, conducting research, and becoming automobile/car experts. 
+
+The level of difficulty would increase with number 001 ---> 005. 001 would be very basic, and almost too easy. 005 would be professional/university level, with citations from research papers, including experimental data and analysis. I would also try to include experimental F1/Indy/Nascar/Le Mans race data and analysis in 005. If you are new to cars, I would highly recommend starting from 001 and work your way up.
+
+*Thank you, and I hope we can Learn Together*
